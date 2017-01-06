@@ -25,3 +25,8 @@ Space Complexity for the program is O(1).
 period of time
 - If stock prices constantly only fall and never rise, the solution provides a 
 negative value to signify the least loss 
+
+Packages:
+There are 2 packages included in the solution files. 
+- Package OrthoNSquared contains the non-ideal solution which runs in O(n^2) and O(1) Space
+- Package OrthoN_Space1 contains the IDEAL solution that runs in O(n) time and O(1) Space
