@@ -1,6 +1,7 @@
 # MaxProfitFromStockTrading
 
-Problem statement: During yesterday's stock trading, Apple's stocks rose and fell 
+Problem statement: 
+During yesterday's stock trading, Apple's stocks rose and fell 
 all day. You are provided a list of all of these values in the form of an array. 
 You are to determine the largest profit a person could have made if they bought 
 the stock at the lowest value and sold at the highest possible value in the rest 
